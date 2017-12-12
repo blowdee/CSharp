@@ -1,0 +1,9 @@
+C:\Users\Roman\documents\visual studio 2017\Projects\CSC\CSC\bin\Debug\netcoreapp1.1\CSC.deps.json
+C:\Users\Roman\documents\visual studio 2017\Projects\CSC\CSC\bin\Debug\netcoreapp1.1\CSC.runtimeconfig.json
+C:\Users\Roman\documents\visual studio 2017\Projects\CSC\CSC\bin\Debug\netcoreapp1.1\CSC.runtimeconfig.dev.json
+C:\Users\Roman\documents\visual studio 2017\Projects\CSC\CSC\obj\Debug\netcoreapp1.1\CSC.AssemblyInfo.cs
+C:\Users\Roman\documents\visual studio 2017\Projects\CSC\CSC\bin\Debug\netcoreapp1.1\CSC.dll
+C:\Users\Roman\documents\visual studio 2017\Projects\CSC\CSC\bin\Debug\netcoreapp1.1\CSC.pdb
+C:\Users\Roman\documents\visual studio 2017\Projects\CSC\CSC\obj\Debug\netcoreapp1.1\CSC.dll
+C:\Users\Roman\documents\visual studio 2017\Projects\CSC\CSC\obj\Debug\netcoreapp1.1\CSC.pdb
+C:\Users\Roman\documents\visual studio 2017\Projects\CSC\CSC\obj\Debug\netcoreapp1.1\CSC.csprojResolveAssemblyReference.cache
